@@ -1,2 +1,2 @@
 # Student-Performance-Analysis
-Statistical analysis and regression modeling to predict student examination performance using Python.
+A comprehensive data analysis and machine learning project exploring the factors influencing student academic performance using Python, statistical analysis, and linear regression.
