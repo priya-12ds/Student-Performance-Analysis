@@ -83,6 +83,18 @@ Key Findings & Conclusions
 | Model Performance | R² = 0.598 |
 | Statistical Tests | Pearson Correlation & ANOVA |
 
+## Project Methodology
+
+The project followed a structured data analysis workflow consisting of:
+
+1. Data preprocessing and quality assessment.
+2. Descriptive statistical analysis.
+3. Exploratory data analysis using graphical visualizations.
+4. Correlation analysis to measure linear relationships.
+5. Inferential analysis using ANOVA and Pearson correlation.
+6. Multiple Linear Regression model development.
+7. Model evaluation using MAE, RMSE, and R² Score.
+
 ## Exploratory Data Analysis
 
 ### Distribution of Examination Scores
